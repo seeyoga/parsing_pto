@@ -1,0 +1,7 @@
+.env
+env/
+pages_html/
+__pycache__/
+*.csv
+*.log
+.idea/
